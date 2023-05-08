@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+# Introduction
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This is where you can find my personal website, which is hosted on: https://enzo2806.github.io. The website features my resume, portfolio, and contact information.
